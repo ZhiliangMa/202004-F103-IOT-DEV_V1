@@ -1,6 +1,9 @@
 设计概况：
+stm32F103+ESP8266+W5500+OLED
 FreeRTOS（对堆栈合理分配）
-cjson解析
+OneNET远程4路开关应用
+心知天气
+cjson解析（剩余RAM太小了，没有进行移植）
 uart1发送DMA
 uart2接收DMA
 uart3接收DMA
