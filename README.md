@@ -11,6 +11,8 @@ uart2接收DMA（DMA相关代码有，但实测ESP8266与F103用AT通信时不�
 
 # 2021.04.19 PCB
 AD-PCB工程已上传，全3D，显示起来蛮漂亮，不过工程大了些。打样直接把`F103-IOT-IC.PcbDoc`发JLC。  
+![image](https://github.com/ZhiliangMa/202004-F103-IOT-DEV_V1/blob/master/img/F103-IOT-DEV-TOP.jpg)
+![image](https://github.com/ZhiliangMa/202004-F103-IOT-DEV_V1/blob/master/img/F103-IOT-DEV-BOTTOM.jpg)
 
 # 电源
 支持`Micro USB`、`DC插头`输入，电路设有电源自动切换，两者可同时插入，不用担心两者冲突。  
