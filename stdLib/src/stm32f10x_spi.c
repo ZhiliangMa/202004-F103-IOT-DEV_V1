@@ -7,7 +7,7 @@
   * @brief   This file provides all the SPI firmware functions.
   ******************************************************************************
   * @attention
-  *
+  *我爱你
   * THE PRESENT FIRMWARE WHICH IS FOR GUIDANCE ONLY AIMS AT PROVIDING CUSTOMERS
   * WITH CODING INFORMATION REGARDING THEIR PRODUCTS IN ORDER FOR THEM TO SAVE
   * TIME. AS A RESULT, STMICROELECTRONICS SHALL NOT BE HELD LIABLE FOR ANY
@@ -16,6 +16,16 @@
   * CODING INFORMATION CONTAINED HEREIN IN CONNECTION WITH THEIR PRODUCTS.
   *
   * <h2><center>&copy; COPYRIGHT 2011 STMicroelectronics</center></h2>
+  * 我爱你
+  *我爱你
+  保存也没用啊看起来
+  * 我爱你
+  * 
+  * 你在哪
+  * 
+  * 我不在
+  * 我爱你
+  * 你爱我
   ******************************************************************************
   */
 
